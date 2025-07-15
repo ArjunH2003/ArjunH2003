@@ -1,8 +1,9 @@
-<div align="center">
+<h1 align="center">Hey there, I'm Arjun H 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arjun%20H%20%7C%20Welcome%20👋&fontSize=40&fontAlign=center&fontColor=fff" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Writing+Clean+Code;Learning+JavaScript+Everyday;Open+to+Collaborate+🚀" />
+</p>
 
-</div>
 
 ---
 
@@ -37,6 +38,3 @@
 </p>
 
 ---
-
-
-}
