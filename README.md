@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arjun%20H%20🚀&fontSize=40&fontAlign=center&fontColor=fff" />
-
-</div>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I+am+Arjun+H+👋" alt="Typing SVG" />
+</h1>
 
 ---
 
