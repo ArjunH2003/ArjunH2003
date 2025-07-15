@@ -1,9 +1,8 @@
-<h1 align="center">Hey there, I'm Arjun H 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=0F62FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Enthusiast;Lifelong+Learner;Open+to+Collaborate+🚀" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arjun%20H%20🚀&fontSize=40&fontAlign=center&fontColor=fff" />
 
+</div>
 
 ---
 
